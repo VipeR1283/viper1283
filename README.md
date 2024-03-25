@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hello World! I am Muhammet Halil Yilmaz</h1>
 <h3 align="center">I would like to work on the AI or data sciences as a jr developer. Also I m looking for internship in same time to enter this sector and start my developer career. Best regards.</h3>
 
