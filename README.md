@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I am Muhammet Halil Yilmaz</h1>
-<h3 align="center">I would like to work on the AI or data sciences. Also I m looking for internship in same time to enter this sector and start my developer career. Best regards.</h3>
+<h3 align="center">I just started to build my career on software. I would like to work on the AI or data sciences. Also looking for internship in same time to enter this sector and start my developer career. Best regards.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viper1283&label=Profile%20views&color=0e75b6&style=flat" alt="viper1283" /> </p>
 
